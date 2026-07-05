@@ -1,0 +1,3 @@
+requirement.txt
+Power BI Desktop
+Microsoft Excel
